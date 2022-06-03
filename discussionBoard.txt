@@ -1,0 +1,21 @@
+1. https://github.com/github/gitignore
+- This is the required repo. I find it interesting that github has a built in file that allows you to decide 
+what you dont want to push to your repository and they also have multiple ways of implementing it with this repo.
+
+2. https://github.com/vuejs/vue
+I find this repo intersting because I have web development experience and have often struggled with the UI aspect of 
+web development and this project is specifically built for UI so I may use this in the future.
+
+3. https://github.com/flutter/flutter
+As someone with web development experience I find flutter to be useful in that it builds fast and pleasant looking user 
+experiences for mobile web and desktop so it takes away some of the work id have to do normally when thinking about how an 
+application of mine will look on different devices.
+
+4. https://github.com/deepmind/mujoco
+Since im pursuing game development its important for me to be aware of and learn the physics in games and this project is based 
+around that and has a plugin for Unity. It also aims to help research and develop robotics and machine learning which are other 
+things I have interest in.
+
+5. https://github.com/oguzeroglu/Ego
+Ego is a decision making library for AI. I have no experience when it comes to AI but this project is in a familiar language and
+AI is something I would like to implement into future projects so I believe this will be a good source to look back on.
